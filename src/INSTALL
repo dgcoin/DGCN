@@ -1,0 +1,9 @@
+Building DGCoin
+
+See doc/readme-qt.rst for instructions on building DGCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DGCoin.
+
+See doc/build-*.txt for instructions on building DGCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DGCoin.
